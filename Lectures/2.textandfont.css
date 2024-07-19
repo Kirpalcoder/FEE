@@ -1,0 +1,32 @@
+ * text-align */
+
+    .a1 {
+        text-align: center;
+    }
+    
+    h1 {
+        text-align: inherit;
+        /* text-align: end; */
+        /* text-align: start; */
+    }
+    
+    p {
+        text-align: justify;
+    }
+    
+    /* text-decoration */
+    
+    a{
+        font-size: 60px;
+        text-decoration-color: aqua;
+        /* text-decoration: overline;
+        text-decoration: underline; */
+        text-decoration: line-through;
+        /* text-decoration: none; */
+        text-decoration-style: double;
+    }
+    
+    h3{
+        box-shadow: 10px 8px 5px blue;
+        /* color: transparent; */
+    }

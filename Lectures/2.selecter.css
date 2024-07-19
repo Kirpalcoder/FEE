@@ -1,0 +1,36 @@
+/* 1.universal selecter */
+*{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+
+    
+}
+/* 2.id selecter */
+#fruits{
+    color: blueviolet;
+    border: 1px dotted green;
+    
+}
+/*3. class selecter */
+.a1{
+    color:red;
+    text-decoration: line-through;
+    font-weight: 800;
+}
+/* 4.element selecter */
+p{
+    background-color: lightpink;
+
+}
+/* 5. attribute selecteer */
+input[type="text"]{
+    background-color: aqua;
+
+}
+input[type="password"]{
+    background-color: brown;
+}
+input[type="email"]{
+    background-color: cadetblue;
+}
+
